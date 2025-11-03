@@ -1,0 +1,6 @@
+- name: "setup mongodb server"
+  hosts: mongodb
+  connection: local
+  become: yes
+  roles:
+  - mongodb
