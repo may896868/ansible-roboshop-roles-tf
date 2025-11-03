@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.dhanvi.fun
+REDIS_HOST: redis.dhanvi.fun
+CATALOGUE_HOST: catalogue.dhanvi.fun
+CART_HOST: cart.dhanvi.fun
+USER_HOST: user.dhanvi.fun
+RABBITMQ_HOST: rabbitmq.dhanvi.fun
+MYSQL_HOST: mysql.dhanvi.fun
+SHIPPING_HOST: shipping.dhanvi.fun
+PAYMENT_HOST: payment.dhanvi.fun
