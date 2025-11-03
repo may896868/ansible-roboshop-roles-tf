@@ -5,8 +5,9 @@
 #   roles:
 #   - mongodb
 
-  # - name: setup mongodb server
-  # hosts: mongodb
-  # become: yes
-  # roles:
-  # - mongodb
+#siva code
+# - name: setup mongodb server
+# hosts: mongodb
+# become: yes
+# roles:
+# - mongodb
